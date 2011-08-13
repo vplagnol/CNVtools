@@ -1,0 +1,2 @@
+export(CNVtest.select.model,CNVtest.binary,CNVtest.binary.T,CNVtest.qt,CNVtest.qt.T,apply.pca,apply.ldf,cnv.plot,qt.plot,getQualityScore,compact.data.frame,get.model.spec,CNV.fitModel)
+useDynLib(CNVtools)
